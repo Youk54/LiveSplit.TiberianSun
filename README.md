@@ -1,4 +1,4 @@
-# LiveSplit.TiberianSun
+# Autosplitter for Tiberian Sun and Firestorm
 
 Autosplitter, load removal, and autostart component for Tiberian Sun and Firestorm.
 
